@@ -13,13 +13,11 @@ struct ContentView: View {
             HStack {
                 Text("Text")
                 Text("This is test")
-                
             }
             
             VStack {
                 Text("VSTack")
             }
-            
         }
     }
 }
