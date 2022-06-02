@@ -14,6 +14,10 @@ struct ContentView: View {
                         Text("Text")
                 Text("This is test")
             }
+            
+            VStack {
+                Text("VSTack")
+            }
         }
     }
 }
