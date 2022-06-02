@@ -12,7 +12,7 @@ struct ContentView: View {
         VStack {
             HStack {
                         Text("Text")
-                Text("This is test")
+                   Text("This is test")
             }
             
             VStack {
