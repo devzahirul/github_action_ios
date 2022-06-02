@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FAA20AF22848324E003EDD99 /* GithubAction_iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA20AF12848324E003EDD99 /* GithubAction_iOSApp.swift */; };
+		FAA20AF22848324E003EDD99 /* GithubActioniOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA20AF12848324E003EDD99 /* GithubActioniOSApp.swift */; };
 		FAA20AF42848324E003EDD99 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA20AF32848324E003EDD99 /* ContentView.swift */; };
 		FAA20AF628483250003EDD99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA20AF528483250003EDD99 /* Assets.xcassets */; };
 		FAA20AF928483250003EDD99 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA20AF828483250003EDD99 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		FAA20AEE2848324E003EDD99 /* GithubAction-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GithubAction-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FAA20AF12848324E003EDD99 /* GithubAction_iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubAction_iOSApp.swift; sourceTree = "<group>"; };
+		FAA20AF12848324E003EDD99 /* GithubActioniOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubActioniOSApp.swift; sourceTree = "<group>"; };
 		FAA20AF32848324E003EDD99 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FAA20AF528483250003EDD99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAA20AF828483250003EDD99 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		FAA20AF02848324E003EDD99 /* GithubAction-iOS */ = {
 			isa = PBXGroup;
 			children = (
-				FAA20AF12848324E003EDD99 /* GithubAction_iOSApp.swift */,
+				FAA20AF12848324E003EDD99 /* GithubActioniOSApp.swift */,
 				FAA20AF32848324E003EDD99 /* ContentView.swift */,
 				FAA20AF528483250003EDD99 /* Assets.xcassets */,
 				FAA20AF728483250003EDD99 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAA20AF42848324E003EDD99 /* ContentView.swift in Sources */,
-				FAA20AF22848324E003EDD99 /* GithubAction_iOSApp.swift in Sources */,
+				FAA20AF22848324E003EDD99 /* GithubActioniOSApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
