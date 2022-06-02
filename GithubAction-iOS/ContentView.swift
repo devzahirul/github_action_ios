@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             HStack {
-                Text("Text")
+                        Text("Text")
                 Text("This is test")
             }
         }
