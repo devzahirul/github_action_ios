@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA4F397628489EB70063C24F /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FAA20AEE2848324E003EDD99 /* GithubAction-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GithubAction-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAA20AF12848324E003EDD99 /* GithubActioniOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubActioniOSApp.swift; sourceTree = "<group>"; };
 		FAA20AF32848324E003EDD99 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +36,7 @@
 		FAA20AE52848324D003EDD99 = {
 			isa = PBXGroup;
 			children = (
+				FA4F397628489EB70063C24F /* MyPlayground.playground */,
 				FAA20AF02848324E003EDD99 /* GithubAction-iOS */,
 				FAA20AEF2848324E003EDD99 /* Products */,
 			);
